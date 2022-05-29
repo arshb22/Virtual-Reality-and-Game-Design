@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/HolodeckProject/Holodeck.unity
+    guid: f6e56bb15afb67b4d92fe46f8255b8cb
+  - enabled: 0
+    path: Assets/Other Stuff/Day1.unity
+    guid: 59e839910dd8c7b4f95b32e4493cc808
+  - enabled: 1
+    path: Assets/HolodeckProject/London.unity
+    guid: d172c496faed1594f9959cc3affa91d8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/HolodeckProject/GazeVR.unity
+    guid: 7f17e3f5b128a944086c544a28a51fbf
+  - enabled: 1
+    path: Assets/HolodeckProject/WaterFall.unity
+    guid: 940cde121ee34c64e9360f47a0bdd67e
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: ca68dc411ddf3e24ca9a4411cb56cffd,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e63afd87a9fd3674c8a7c9089789ae49,
+      type: 2}
